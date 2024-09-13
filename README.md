@@ -10,6 +10,7 @@
     ```python
     >>> pkg install git
     >>> pkg install python
+    >>> git clone https://github.com/WhiteDevil1097/Email-Hunter.git
     >>> pip install -r requirements.txt #for windows
     >>> pip3 install -r requirements.txt #for macos and linux
     ``` 
