@@ -11,8 +11,7 @@
     >>> pkg install git
     >>> pkg install python
     >>> git clone https://github.com/WhiteDevil1097/Email-Hunter.git
-    >>> pip install -r requirements.txt #for windows
-    >>> pip3 install -r requirements.txt #for macos and linux
+    >>> pip install -r requirements.txt #for macos and linux
     >>> python @Email-links.py
     ``` 
 - Run the @Email-links.py file by running <i>python @Email-links.py</i> or <i>python3 @Email-links.py</i> on it.
