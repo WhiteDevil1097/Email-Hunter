@@ -8,6 +8,8 @@
 - Install Python in your Machine 
 - Install the python packages mentioned inside the requirments.txt file by the following command in your terminal:
     ```python
+    >>> pkg install git
+    >>> pkg install python
     >>> pip install -r requirements.txt #for windows
     >>> pip3 install -r requirements.txt #for macos and linux
     ``` 
